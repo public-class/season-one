@@ -3,7 +3,7 @@
 
 - [什么是需求](https://github.com/public-class/season-one/issues/1)
 
-- 为什么要做原型
+- [为什么要做原型](https://github.com/public-class/season-one/issues/2)
 
 - 为什么要写开发文档
 
