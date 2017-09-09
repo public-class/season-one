@@ -46,7 +46,7 @@
 	- [Q](https://github.com/joephon/open-lession/blob/master/CSS/block/Q.md)
 	- [K](https://github.com/joephon/open-lession/blob/master/CSS/block/K.md)
 
-- git 的基本操作【制作中。。。】
+- [git 的基本操作](https://github.com/public-class/season-one/tree/master/source/git-tutorail.pdf)
 
 - Web HTML 和小程序 WXML 的异同【制作中。。。】
 
