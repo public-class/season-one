@@ -72,5 +72,5 @@ __我是强调__
 ![图片链接哟](https://gss1.bdstatic.com/-vo3dSag_xI4khGkpoWK1HF6hhy/baike/s%3D220/sign=cc1dd4108a13632711edc531a18da056/c8ea15ce36d3d5396bc2470f3a87e950342ab07b.jpg)
 
 
-
+<video src="http://teach-1252404379.cossh.myqcloud.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%A7%86%E9%A2%91/10%20%E5%88%86%E9%92%9F%EF%BC%8C%E6%8E%8C%E6%8F%A1%20MarkDown/markdown.mov.f30.mp4" width=500 autoplay controls/>
 
