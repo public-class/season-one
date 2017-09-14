@@ -48,11 +48,11 @@
 
 - [git 的基本操作](https://github.com/public-class/season-one/tree/master/source/git-tutorail.pdf)
 
-- Web HTML 和小程序 WXML 的异同【制作中。。。】
+- Web HTML 和小程序 WXML 的异同
 
-- Web CSS 和小程序 WXSS 的异同【制作中。。。】
+- Web CSS 和小程序 WXSS 的异同
 
-- 小程序里 JS 和 WXS 的异同【制作中。。。】
+- 小程序里 JS 和 WXS 的异同
 
 - 用 WXML、WXSS 撸一张静态录取通知书【制作中。。。】
 
