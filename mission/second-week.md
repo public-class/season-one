@@ -48,11 +48,13 @@
 
 - [git 的基本操作](https://github.com/public-class/season-one/tree/master/source/git-tutorail.pdf)
 
-- Web HTML 和小程序 WXML 的异同
+- [快速演示git和GitHub的基本操作](http://teach-1252404379.cossh.myqcloud.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%A7%86%E9%A2%91/%25E5%25BF%25AB%25E9%2580%259F%25E6%25BC%2594%25E7%25A4%25BAgit%25E5%2592%258Cgithub/%E5%BF%AB%E9%80%9F%E6%BC%94%E7%A4%BAgit%E5%92%8Cgithub.mov.f30.mp4)
 
-- Web CSS 和小程序 WXSS 的异同
+- [Web HTML 和小程序 WXML 的异同](http://teach-1252404379.cossh.myqcloud.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%A7%86%E9%A2%91/wxml%25E7%259A%2584%25E5%25BC%2582%25E5%2590%258C/wxml%20%E7%9A%84%E5%BC%82%E5%90%8C.mov.f30.mp4)
 
-- 小程序里 JS 和 WXS 的异同
+- [Web CSS 和小程序 WXSS 的异同](http://teach-1252404379.cossh.myqcloud.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%A7%86%E9%A2%91/wxss%25E7%259A%2584%25E5%25BC%2582%25E5%2590%258C/wxss%E7%9A%84%E5%BC%82%E5%90%8C.mov.f30.mp4)
+
+- [小程序里 JS 和 WXS 的异同](http://teach-1252404379.cossh.myqcloud.com/%E5%B0%8F%E7%A8%8B%E5%BA%8F%E8%A7%86%E9%A2%91/wxs%25E7%259A%2584%25E5%25BC%2582%25E5%2590%258C/wxs%E7%9A%84%E5%BC%82%E5%90%8C.mov.f30.mp4)
 
 - 用 WXML、WXSS 撸一张静态录取通知书【制作中。。。】
 
